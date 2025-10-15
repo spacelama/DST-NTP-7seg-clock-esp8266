@@ -28,7 +28,7 @@
 #include "Adafruit_LEDBackpack.h"
 #include <ESP8266WebServer.h>
 
-String CODE_VERSION = "$Revision: 1.9 $";
+String CODE_VERSION = "$Revision: 1.10 $";
 ESP8266WebServer server(80);
 
 // "TZ_" macros follow DST change across seasons without source code change
